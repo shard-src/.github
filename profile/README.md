@@ -1,11 +1,11 @@
 <div align="center">
 
-# SHARD
+<a href="https://shard.team"><img src="assets/banner.svg" alt="shard@studio terminal: new project, stack, status" width="880" /></a>
 
-**Engineering modern web experiences.**
-
-[![Available for new projects](https://img.shields.io/badge/available-new%20projects-3FB950?style=flat-square)](https://shard.team)
-[![Website](https://img.shields.io/badge/site-shard.team-58A6FF?style=flat-square)](https://shard.team)
+[![Available for new projects](https://img.shields.io/badge/available-new%20projects-3fb950?style=flat-square)](https://shard.team)
+[![shard.team](https://img.shields.io/badge/site-shard.team-0d1117?style=flat-square&logo=googlechrome&logoColor=58a6ff)](https://shard.team)
+[![GitHub](https://img.shields.io/badge/github-@teamshard-0d1117?style=flat-square&logo=github&logoColor=e6edf3)](https://github.com/syntax-source)
+[![Almaty, Kazakhstan](https://img.shields.io/badge/location-Almaty,%20KZ-0d1117?style=flat-square&logo=googlemaps&logoColor=f97316)](https://shard.team)
 
 A modern IT company building scalable, high-performance applications.
 We leverage diverse technology stacks to deliver robust solutions for clients globally.
@@ -22,7 +22,9 @@ We leverage diverse technology stacks to deliver robust solutions for clients gl
 
 ## Technologies we master
 
-<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=react,nextjs,vue,nuxtjs,nodejs,ts,python,go,postgres,redis,graphql,docker,k8s,aws&perline=14&theme=dark" alt="SHARD tech stack icons" /></a>
+<p align="center">
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=react,nextjs,vue,nuxtjs,nodejs,ts,python,go,postgres,redis,graphql,docker,k8s,aws&perline=14&theme=dark" alt="SHARD tech stack icons" /></a>
+</p>
 
 ## Projects
 
