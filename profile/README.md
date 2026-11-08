@@ -4,7 +4,7 @@
 
 [![Available for new projects](https://img.shields.io/badge/available-new%20projects-3fb950?style=flat-square)](https://shard.team)
 [![shard.team](https://img.shields.io/badge/site-shard.team-0d1117?style=flat-square&logo=googlechrome&logoColor=58a6ff)](https://shard.team)
-[![GitHub](https://img.shields.io/badge/github-@teamshard-0d1117?style=flat-square&logo=github&logoColor=e6edf3)](https://github.com/syntax-source)
+[![GitHub](https://img.shields.io/badge/github-@shard-src-0d1117?style=flat-square&logo=github&logoColor=e6edf3)](https://github.com/shard-src)
 [![Almaty, Kazakhstan](https://img.shields.io/badge/location-Almaty,%20KZ-0d1117?style=flat-square&logo=googlemaps&logoColor=f97316)](https://shard.team)
 
 A modern IT company building scalable, high-performance applications.
@@ -30,8 +30,8 @@ We leverage diverse technology stacks to deliver robust solutions for clients gl
 
 | Project | What it is |
 |---|---|
-| [shard.team](https://github.com/syntax-source/shard.team) | This website: multilingual company site (EN/RU/KZ) |
-| [qazaqstan.world](https://github.com/syntax-source/qazaqstan.world) | Republic of Kazakhstan: statistics, flag, emblem, anthem and lyrics. Terminal edition |
+| [shard.team](https://github.com/shard-src/shard.team) | This website: multilingual company site (EN/RU/KZ) |
+| [qazaqstan.world](https://github.com/shard-src/qazaqstan.world) | Republic of Kazakhstan: statistics, flag, emblem, anthem and lyrics. Terminal edition |
 
 ## Contact
 
