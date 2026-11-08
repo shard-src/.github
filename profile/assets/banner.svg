@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="260" viewBox="0 0 880 260" role="img" aria-label="shard@studio terminal: shard init, stack, status">
+  <defs>
+    <style>
+      text { font-family: ui-monospace, 'Cascadia Code', 'JetBrains Mono', Menlo, Consolas, monospace; }
+      .cmd  { fill: #e6edf3; font-size: 17px; }
+      .out  { fill: #8b949e; font-size: 17px; }
+      .ok   { fill: #3fb950; font-size: 17px; }
+      .ps1  { fill: #58a6ff; font-size: 17px; }
+      .bar  { fill: #8b949e; font-size: 13px; }
+      .line { opacity: 0; }
+    </style>
+  </defs>
+
+  <!-- terminal window -->
+  <rect x="4" y="4" width="872" height="252" rx="12" fill="#0d1117" stroke="#30363d" stroke-width="1.5"/>
+  <line x1="4" y1="46" x2="876" y2="46" stroke="#30363d" stroke-width="1.5"/>
+  <circle cx="30" cy="25" r="6" fill="#ff5f56"/>
+  <circle cx="52" cy="25" r="6" fill="#ffbd2e"/>
+  <circle cx="74" cy="25" r="6" fill="#27c93f"/>
+  <text class="bar" x="440" y="30" text-anchor="middle">shard@studio: ~</text>
+
+  <!-- session -->
+  <g>
+    <text class="line" x="32" y="80"><tspan class="ps1">shard ➜ </tspan><tspan class="cmd">./shard --new-project</tspan>
+      <animate attributeName="opacity" from="0" to="1" begin="0.3s" dur="0.15s" fill="freeze"/></text>
+    <text class="line out" x="44" y="112">▸ engineering modern web experiences
+      <animate attributeName="opacity" from="0" to="1" begin="1.4s" dur="0.15s" fill="freeze"/></text>
+    <text class="line out" x="44" y="144">▸ react · next · vue · node · go · python · aws
+      <animate attributeName="opacity" from="0" to="1" begin="2.5s" dur="0.15s" fill="freeze"/></text>
+    <text class="line ok" x="44" y="176">▸ status: available for new projects
+      <animate attributeName="opacity" from="0" to="1" begin="3.6s" dur="0.15s" fill="freeze"/></text>
+    <text class="line" x="32" y="216"><tspan class="ps1">shard ➜ </tspan>
+      <animate attributeName="opacity" from="0" to="1" begin="4.7s" dur="0.15s" fill="freeze"/></text>
+    <rect x="132" y="202" width="10" height="18" fill="#58a6ff">
+      <animate attributeName="opacity" values="1;0" calcMode="discrete" dur="1.05s" repeatCount="indefinite"/>
+    </rect>
+  </g>
+
+  <!-- shard decor -->
+  <g opacity="0.9">
+    <polygon points="790,64 850,124 790,184 730,124" fill="none" stroke="#30363d" stroke-width="1.5">
+      <animateTransform attributeName="transform" type="rotate" from="0 790 124" to="360 790 124" dur="36s" repeatCount="indefinite"/>
+    </polygon>
+    <polygon points="790,64 850,124 790,124" fill="#58a6ff">
+      <animate attributeName="opacity" values="0.10;0.32;0.10" dur="4.5s" repeatCount="indefinite"/>
+    </polygon>
+    <polygon points="790,64 730,124 790,124" fill="#388bfd">
+      <animate attributeName="opacity" values="0.28;0.08;0.28" dur="4.5s" repeatCount="indefinite"/>
+    </polygon>
+  </g>
+</svg>
