@@ -4,10 +4,11 @@
 
 **Engineering modern web experiences.**
 
+[![Available for new projects](https://img.shields.io/badge/available-new%20projects-3FB950?style=flat-square)](https://shard.team)
+[![Website](https://img.shields.io/badge/site-shard.team-58A6FF?style=flat-square)](https://shard.team)
+
 A modern IT company building scalable, high-performance applications.
 We leverage diverse technology stacks to deliver robust solutions for clients globally.
-
-[shard.team](https://shard.team)
 
 </div>
 
@@ -21,7 +22,7 @@ We leverage diverse technology stacks to deliver robust solutions for clients gl
 
 ## Technologies we master
 
-React - Next.js - Vue - Nuxt - Node.js - Python - Go - TypeScript - PostgreSQL - Redis - GraphQL - Docker - Kubernetes - AWS
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=react,nextjs,vue,nuxtjs,nodejs,ts,python,go,postgres,redis,graphql,docker,k8s,aws&perline=14&theme=dark" alt="SHARD tech stack icons" /></a>
 
 ## Projects
 
